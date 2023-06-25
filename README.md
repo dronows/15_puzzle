@@ -16,7 +16,7 @@ dieses Spiel ist eine Windows-Desktop-Anwendung
 
    das **Model** wurde in Qt/C++ erstellt(class GameBoard) und in qml als "GameBoardModel" registriert
 
-  die dimension- und hidden ElementValue-Eigenschaften werden ebenfalls aus dem qml-Objekt GriedView aufgerufen
+  die dimension- und hiddenElementValue -Eigenschaften werden ebenfalls aus dem qml-Objekt GriedView aufgerufen
 
   die GameBoard::move() -Funktion wird beim Klicken auf den Delegaten aufgerufen und steuert die Bewegung der Puzzles
   
