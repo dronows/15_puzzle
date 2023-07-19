@@ -32,3 +32,4 @@ dieses Spiel ist eine Windows-Desktop-Anwendung
 - wenn das GameBoard initialisiert wird, wird ein std::vector erstellt und mit den vom std::mt19937-Generator generierten Zahlen gefüllt
 
   
+![](https://komarev.com/ghpvc/?username=your-github-dronows)
